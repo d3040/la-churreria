@@ -1,10 +1,5 @@
-# la Churrería
+# La Churrería de Xalapa
 Planeación y desarrollo web.
-
-Lluvia de ideas:
-  * [Café ruta de la seda](https://www.caferutadelaseda.com/tienda.php?categoria=1)
-  * [Maison Kitsuné](https://maisonkitsune.com/fr_en/)
-  * [*Burdick Chocolate!*](https://www.burdickchocolate.com/pages/location/boston?srsltid=AfmBOoqoRE8_OR62UcQ6AO1dOVhtPykwPJFldwpxS_FJMUDMJA6rlN50)
 
 ## dominios
 * https://www.churreriadexalapa.com.mx/ (la sección amarilla)
@@ -30,6 +25,10 @@ Lluvia de ideas:
 * Agregar próximamente...
 * Contactar a la Sección Amarilla, ¿cuáles son los lineamientos de colaboración? (Daniel).
 * Scouting dominios / restaurantes del giro.
+* Posicionamiento de la página.
 * Restaurantes mismo giro:
   - https://www.churrerialasduyas.com/
-* Posicionamiento de la página.
+* Lluvia de ideas:
+  * [Café ruta de la seda](https://www.caferutadelaseda.com/tienda.php?categoria=1)
+  * [Maison Kitsuné](https://maisonkitsune.com/fr_en/)
+  * [*Burdick Chocolate!*](https://www.burdickchocolate.com/pages/location/boston?srsltid=AfmBOoqoRE8_OR62UcQ6AO1dOVhtPykwPJFldwpxS_FJMUDMJA6rlN50)
