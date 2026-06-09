@@ -27,7 +27,7 @@ Planeación y desarrollo web.
 * Scouting dominios / restaurantes del giro.
 * Posicionamiento de la página.
 * Restaurantes mismo giro:
-  - https://www.churrerialasduyas.com/
+  - [Las Duyas](https://www.churrerialasduyas.com/)
 * Lluvia de ideas:
   * [Café ruta de la seda](https://www.caferutadelaseda.com/tienda.php?categoria=1)
   * [Maison Kitsuné](https://maisonkitsune.com/fr_en/)
